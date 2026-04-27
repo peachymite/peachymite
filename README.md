@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaan</h1>
+<h1 align="center">Hi 👋, I'm Sayan !!</h1>
 <p align="center">
   🚀 Web Developer in Progress • 🍔 Building Neon Bites • ⚡ Dreaming Big
 </p>---
@@ -20,7 +20,6 @@
 🚀 Projects
 
 - 🍔 Neon Bites – Cafe Website (In Progress)
-- 🎬 Mini Netflix Clone
 - 🧮 Smart Calculator
 
 ---
@@ -40,8 +39,8 @@
 🌐 Connect
 
 <p align="center">
-  <a href="https://instagram.com/yourusername">Instagram</a> •
-  <a href="mailto:your@email.com">Email</a>
+  <a href="https://instagram.com/urusername">Instagram</a> •
+  <a href="mailto:peachymite11@email.com">Email</a>
 </p>---
 
 <p align="center">⚡ "Build simple. Make it beautiful." ⚡</p>
