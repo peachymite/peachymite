@@ -39,7 +39,7 @@
 🌐 Connect
 
 <p align="center">
-  <a href="https://instagram.com/urusername">Instagram</a> •
+  <a href="https://instagram.com/_phantom__core__">Instagram</a> •
   <a href="mailto:peachymite11@email.com">Email</a>
 </p>---
 
